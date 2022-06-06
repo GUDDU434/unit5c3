@@ -1,0 +1,38 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "voter",
+      "username": "john",
+      "password": "1234",
+      "age": 15,
+      "token": "6f85eca06c"
+    },
+    {
+      "id": 2,
+      "name": "Donald Trump",
+      "role": "candidate",
+      "votes": 0,
+      "party": "republicans",
+      "age": 15
+    },
+    { "id": 3, "name": "jacob", "role": "voter", "age": 27 },
+    {
+      "id": 4,
+      "name": "Modi",
+      "role": "candidate",
+      "age": 27,
+      "votes": 0,
+      "party": "republicans"
+    },
+    {
+      "id": 4,
+      "name": "Modi",
+      "role": "candidate",
+      "age": 27,
+      "votes": 0,
+      "party": "republicans"
+    }
+  ]
+}
